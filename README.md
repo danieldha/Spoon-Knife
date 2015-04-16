@@ -1,4 +1,8 @@
 ### Well hello there!
+Cristrian Fuertes 1123259
+Danei Henao 1123054
+Fabian Cano 1131407
+Oscar Tigreros 1326645
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
